@@ -1,7 +1,28 @@
+
 ### Google Material Icons for Sketch - with symbols
 
 
-[[DOWNLOAD]](https://github.com/LPZilva/Google-Material-Icons-for-Sketch/archive/master.zip)
+
+
+
+
+
+![alt tag]( https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/Action.png?raw=true)
+
+
+![alt tag](  https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/Communication.png?raw=true)
+
+
+![alt tag]( https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/Navigation.png?raw=true)
+
+
+
+
+![alt tag]( https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/AV.png?raw=true)
+
+
+
+
 
 Google Material Icons for Sketch is a Google icon set for Sketch App.
 
