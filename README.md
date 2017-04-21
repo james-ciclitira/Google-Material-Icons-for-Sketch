@@ -4,24 +4,21 @@
 
 
 
-
-
-
 ![alt tag]( https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/Action.png?raw=true)
-
 
 ![alt tag](  https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/Communication.png?raw=true)
 
-
 ![alt tag]( https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/Navigation.png?raw=true)
-
-
-
 
 ![alt tag]( https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/AV.png?raw=true)
 
+![alt tag]( https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/Alert.png?raw=true)
 
+![alt tag]( https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/Content.png?raw=true)
 
+![alt tag]( https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/File.png?raw=true)
+
+![alt tag]( https://github.com/james-ciclitira/Google-Material-Icons-for-Sketch/blob/master/Img/Soical.png?raw=true)
 
 
 Google Material Icons for Sketch is a Google icon set for Sketch App.
